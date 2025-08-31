@@ -19,3 +19,5 @@ H = teller ./ nevner;
 loglog(w, abs(H))
 %plot(s, H)
 grid on;
+
+semilogx()
